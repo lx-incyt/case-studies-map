@@ -91,7 +91,7 @@
                 ]
             },
             "properties": {
-                "Name": "LB Agtech",
+                "Name": "BeeSTAR",
                 "Address": "Brisbane QLD, Australia",
                 "Notes": "<p>No Bees, No Food.</p><br>\n\n<a href='https://www.incyt.com.au/customers/lb-agtech' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
                 "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66d544d74803e30db9f6c393_DSC_8421.avif"
