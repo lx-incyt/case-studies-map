@@ -166,6 +166,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    146.181488,
+                    -34.517570
+                ]
+            },
+            "properties": {
+                "Name": "EASY Liquids",
+                "Address": "Whitton NSW 2705, Australia",
+                "Notes": "<p>Industrial tank monitoring at scale.</p><br>\n\n<a href='https://www.incyt.com.au/customers/easy-liquids' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6769ee57e35072a0a28bc61d_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.841721,
+                    -29.463551
+                ]
+            },
+            "properties": {
+                "Name": "EASY Liquids",
+                "Address": "Moree NSW 2400, Australia",
+                "Notes": "<p>Industrial tank monitoring at scale.</p><br>\n\n<a href='https://www.incyt.com.au/customers/easy-liquids' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6769ee57e35072a0a28bc61d_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     147.9816442,
                     -32.0333806
                 ]
