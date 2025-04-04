@@ -45,7 +45,7 @@
             "properties": {
                 "Name": "Printhie Wines",
                 "Address": "Orange NSW",
-                "Notes": "<p>Creating Curiosity through Transparency.</p><br>\n\n<a href='www.incyt.com.au/customers/printhie-wines' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Notes": "<p>Creating Curiosity through Transparency.</p><br>\n\n<a href='https://www.incyt.com.au/customers/printhie-wines' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
                 "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67db637e01a5cbd2bfae59d2_DSC_9165%201.png"
             }
         },
