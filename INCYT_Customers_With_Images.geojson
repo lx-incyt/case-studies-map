@@ -237,7 +237,7 @@
             "properties": {
                 "Name": "Ormonde Farms",
                 "Address": "Berriwillock, VIC",
-                "Notes": "<p>Better crop management decisions through remote monitoring.</p><br>\n\n<a href='https://www.incyt.com.au/customers/dunedin-pastoral' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>\n",
+                "Notes": "<p>Better crop management decisions through remote monitoring.</p><br>\n\n<a href='https://www.incyt.com.au/customers/ormonde-farms' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>\n",
                 "Image": "https://cdn.prod.website-files.com/665d148e9ec5cf15253805d9/68175b4cd279523de4146f96_DJI_0764%202.webp"
             }
         },
