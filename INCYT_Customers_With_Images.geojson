@@ -257,6 +257,22 @@
                 "Image": "https://cdn.prod.website-files.com/665d148e9ec5cf15253805d9/68182f87883fd209236b9f52_Boort.avif"
             }
         },
+{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.982559,
+                    -36.370579
+                ]
+            },
+            "properties": {
+                "Name": "Break-O-Day",
+                "Address": "Donald, VIC",
+                "Notes": "<p>Know your soil moisture levels & make more profitable decisions.</p><br>\n\n<a href='https://www.incyt.com.au/customers/break-o-day' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>\n",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67c6574130bae54f87cc1935_DJI_0694.avif"
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
