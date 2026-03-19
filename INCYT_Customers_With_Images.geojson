@@ -7,7 +7,7 @@
       "properties": {
         "Name": "Fitz Farming",
         "Address": "Griffith NSW",
-        "Notes": "<p>Optimising spray applications.</p><br>\n\n<a href='https://www.incyt.com.au/customers/fitz-farming' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Optimising spray applications.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/669f330eb9ae0d716e3b823b_Fitz%20Farming%20Shoot%2030%20Mar%202023-06-min%20(1).jpg"
       }
     },
@@ -17,7 +17,7 @@
       "properties": {
         "Name": "Swansbel Pastoral",
         "Address": "Narrabri NSW",
-        "Notes": "<p>Saving time through digital monitoring.</p><br>\n\n<a href='https://www.incyt.com.au/customers/swansbel-pastoral' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Saving time through digital monitoring.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/668f7bef24a3987f8ed4c7e4_Copy%20of%20Copy%20of%20DSC_8319%201.avif"
       }
     },
@@ -27,63 +27,160 @@
       "properties": {
         "Name": "Printhie Wines",
         "Address": "Orange NSW",
-        "Notes": "<p>Creating Curiosity through Transparency.</p><br>\n\n<a href='https://www.incyt.com.au/customers/printhie-wines' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Creating Curiosity through Transparency.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67db637e01a5cbd2bfae59d2_DSC_9165%201.png"
       }
     },
-
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [148.6648597, -33.5622339] },
       "properties": {
         "Name": "Payten Family",
         "Address": "Canowindra NSW",
-        "Notes": "<p>Implementing remote monitoring.</p><br>\n\n<a href='https://www.incyt.com.au/customers/payten-family' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Implementing remote monitoring.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6698918c7a7714e6eb1eb5ff_DSC_8275.avif"
       }
     },
-
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [149.4391935, -30.2244213] },
       "properties": {
         "Name": "Waverley Ag",
         "Address": "Wee Waa NSW",
-        "Notes": "<p>Improving lifestyle through increased efficiency.</p><br>\n\n<a href='https://www.incyt.com.au/customers/waverley-ag' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Improving lifestyle through increased efficiency.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66c2ea6662c15c7213c08dd5_DSC_8421.avif"
       }
     },
-
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [153.0260341, -27.4704528] },
       "properties": {
         "Name": "BeeSTAR",
         "Address": "Brisbane QLD",
-        "Notes": "<p>No Bees, No Food.</p><br>\n\n<a href='https://www.incyt.com.au/customers/lb-agtech' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>No Bees, No Food.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66d544d74803e30db9f6c393_DSC_8421.avif"
       }
     },
-
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [149.3179813, -29.9691212] },
       "properties": {
         "Name": "Allabah Pastoral",
         "Address": "Spring Plains NSW",
-        "Notes": "<p>Creating full-farm visibility.</p><br>\n\n<a href='https://www.incyt.com.au/customers/allabah-pastoral' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Creating full-farm visibility.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66d54a3ad0a66bf2953e3dc4_DSC_8421.avif"
       }
     },
-
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [149.8415676, -29.465303] },
       "properties": {
         "Name": "Wincott Holdings",
         "Address": "Moree NSW",
-        "Notes": "<p>Preparing for the future through innovation.</p><br>\n\n<a href='https://www.incyt.com.au/customers/wincott-holdings' class='button'>View Case Study</a>\n\n<style>.button{display:inline-block;padding:12px 24px;background-color:%2304A1FF;color:white;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;text-align:center;transition:background-color 0.3s ease, box-shadow 0.3s ease;} .button:hover{background-color:%230385D1;box-shadow:0px 4px 8px rgba(4,161,255,0.4);}</style>",
+        "Notes": "<p>Preparing for the future through innovation.</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66ff7fc9ea08f8c7545c81d1_Wincott_Hero%20(1).avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [152.35, -30.4] },
+      "properties": {
+        "Name": "Lean Pastoral",
+        "Address": "Ebor NSW",
+        "Notes": "<p>Creating peace of mind.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/673a728a8903e387340b5c7d_DSC_8421.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [143.1506848, -34.716102] },
+      "properties": {
+        "Name": "EASY Liquids",
+        "Address": "Boundary Bend",
+        "Notes": "<p>Industrial tank monitoring at scale.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6769ee57e35072a0a28bc61d_DSC_8421.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [146.181488, -34.51757] },
+      "properties": {
+        "Name": "EASY Liquids",
+        "Address": "Whitton NSW",
+        "Notes": "<p>Industrial tank monitoring at scale.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6769ee57e35072a0a28bc61d_DSC_8421.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [149.841721, -29.463551] },
+      "properties": {
+        "Name": "EASY Liquids",
+        "Address": "Moree NSW",
+        "Notes": "<p>Industrial tank monitoring at scale.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6769ee57e35072a0a28bc61d_DSC_8421.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [147.9816442, -32.0333806] },
+      "properties": {
+        "Name": "Dunedin Pastoral",
+        "Address": "Trangie NSW",
+        "Notes": "<p>Embracing technology.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6768ba65dbcf7972d7e8df33_Hero.avif"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [142.99514, -35.63615] },
+      "properties": {
+        "Name": "Ormonde Farms",
+        "Address": "Berriwillock, VIC",
+        "Notes": "<p>Better crop management decisions through remote monitoring.</p>",
+        "Image": "https://cdn.prod.website-files.com/665d148e9ec5cf15253805d9/68175b4cd279523de4146f96_DJI_0764%202.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [143.724117, -36.115688] },
+      "properties": {
+        "Name": "Bird Family",
+        "Address": "Boort, VIC",
+        "Notes": "<p>Enabling Farming through Remote Monitoring.</p>",
+        "Image": "https://cdn.prod.website-files.com/665d148e9ec5cf15253805d9/68182f87883fd209236b9f52_Boort.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [142.982559, -36.370579] },
+      "properties": {
+        "Name": "Break-O-Day",
+        "Address": "Donald, VIC",
+        "Notes": "<p>Know your soil moisture levels & make more profitable decisions.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67c6574130bae54f87cc1935_DJI_0694.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [142.330425, -36.686564] },
+      "properties": {
+        "Name": "Longerenong College",
+        "Address": "Longerenong, VIC",
+        "Notes": "<p>Digitising an Agricultural College.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/68538e0c6d7323cf257772f6_DJI_0973%201.png"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [145.5314081, -33.4855373] },
+      "properties": {
+        "Name": "McMaster Farming",
+        "Address": "Hillston NSW",
+        "Notes": "<p>Creating accurate spray records.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67c65421a4d1f5eb8311139d_DSC_9223.avif"
       }
     },
 
@@ -97,7 +194,6 @@
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67c65df9632f8d37d05f99d5_DJI_0893.avif"
       }
     },
-
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [146.4275, -34.4286] },
