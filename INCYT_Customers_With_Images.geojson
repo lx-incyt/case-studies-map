@@ -203,6 +203,14 @@
         "Notes": "<p>Implementing Remote Weather Monitoring</p>",
         "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/68a4033b26889f9c1a65ae1e_Flagg%20Family-1.jpeg"
       }
+    },
+     {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [149.9546902, -28.6064817] },
+      "properties": {
+        "Name": "Hamish Johnstone - MacIntyre Downs",
+        "Address": "Goondiwindi QLD",
+        "Notes": "<p>Monitoring a 7,000 ha cotton operation from one platform.</p>",
+        "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6ae285677cb62ec6c353e274_IMG_2655.avif"
+      }
     }
-  ]
-}
